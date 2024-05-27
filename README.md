@@ -36,8 +36,8 @@ Also, this space includes a list of proposed packages that would fill certain ga
 
 ## Keras
 
-- [tfkg](https://github.com/CodingBeard/tfkg) - tfkg.
-- [go-keras](github.com/leeyikjiun/go-keras) - tfkg.
+- [tfkg](https://github.com/CodingBeard/tfkg) -  Create, train, and save Tensorflow Keras models all in Golang .
+- [go-keras](https://github.com/leeyikjiun/go-keras) -  A Golang implementation of Keras.
 
 
 ## Arithmetic
