@@ -238,10 +238,12 @@ Also, this space includes a list of proposed packages that would fill certain ga
 - [github.com/schollz/linkcrawler](https://github.com/schollz/linkcrawler) - Cross-platform persistent and distributed web crawler
 
 ## Proposed
-
-  * [ ] Multi-dimensional slices within Go itself ([Proposal](https://github.com/golang/proposal/blob/master/design/6282-table-data.md)).
-  * [ ] A robust (and concurrent) package to handle minimizations/fits of data and histograms (gonum/optimize would provide a nice foundation for this).
-  * [ ] A robust (and concurrent) package to describe statistical models (Bayesian and frequentist) with many nuisance parameters, etc...
-  * [ ] A Go native package for A/B testing.
-  * [ ] A database with datalog querying. Inspiration can be drawn from Rich Hickey's [Datomic](http://www.datomic.com) database, but open source.
-  * [ ] A datalog query system for distributed computation. Similar to [Cascalog](http://cascalog.org/) for the Hadoop ecosystem, but integrating with some of the Go tools instead.
+    Gopher Data – Gophers doing data analysis, no schedule events, last blog post was 2017
+    Gopher Notes – Golang in Jupyter Notebooks
+    Lgo – Interactive programming with Jupyter for Golang
+    Gota – Data frames for Go, “The API is still in flux so use at your own risk.”
+    qframe – Immutable data frames for Go, better speed than Gota but not as well documented
+    GoLearn – Machine Learning for Go
+    Gorgonia – Library for machine learning in Go
+    Go Sklearn – Port of sci-kit learn from Python, still active but only a couple committers, early but promising
+    Gonum – Numerical library for Go, very promising and active
