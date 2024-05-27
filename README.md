@@ -1,5 +1,6 @@
 # Go Data Science Tooling, Packages, Libraries, etc.
 
+
 This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
 
 - [Arithmetic](README.md#arithmetic)
@@ -30,6 +31,14 @@ This is a curated list of well-maintained and developing tools, packages, librar
 Also, this space includes a list of proposed packages that would fill certain gaps in the ecosystem or provide enhanced functionality.
 
 [Proposed](README.md#proposed)
+
+
+
+## Keras
+
+- [tfkg](https://github.com/CodingBeard/tfkg) - tfkg.
+- [go-keras](github.com/leeyikjiun/go-keras) - tfkg.
+
 
 ## Arithmetic
 
